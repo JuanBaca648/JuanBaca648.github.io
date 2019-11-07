@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Rokkitt&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: #0307fc;
+  font-family: 'Rokkitt', serif;
+}
+
+.menu {
+  margin-top:4vh;
+  margin-left:8vh;
+}
+
+.menu li {
+  float:left;
+  padding-right: 30px;
+  font-size: 1.2em;
+  color: #adfc03;
+  list-style-type: none;
+}
+
+.menu li a {
+  color: #adfc03;
+  text-decoration: none;
+  font-size: 2em;
+  color: yellow;
+  font-family: 'Rokkitt', serif;
+  }
+
+#title {
+  margin-top: 5vh;
+  margin-bottom: 2vh;
+  color: yellow;
+  font-family: 'Frank Ruhl Libre', serif;
+}
+
+h1, p {
+margin-top:5vh;
+margin-bottom: 2vh;
+  text-align: center;
+  color: yellow;
+}
+
+p{
+  font-size: 1.5em;
+}
+.portfolio{
+  width:50%;
+}
+.imgdes {
+  color: yellow;
+  font-family: 'Frank Ruhl Libre', serif;
+}
+
+.description{
+  width:70%;
+}
+
+.text {
+  width: 70%;
+}
+
+footer{
+border-top: 3px yellow dashed;
+color: yellow;
+padding: 15px;
+font-size: 1.5em;
+text-align: center;
+
+}
