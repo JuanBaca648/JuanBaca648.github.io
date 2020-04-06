@@ -75,6 +75,31 @@ font-size: 1.5em;
 text-align: center;
 }
 
+.navigation{
+  width:100vw;
+  padding: 60px 0;
+  padding-bottom: 100px;
+  margin:0 auto;
+  background-color: white;
 
+}
+
+.previous{
+  float: right;
+  text align: right;
+  vertical-align: middle;
+}
+.previous a{
+  text-decoration: none;
+  color: #0307fc
+}
+.next{
+  float: right;
+  text-align: right;
+  vertical-align: middle;
+}
+.next a{
+  text-decoration: none;
+  color:#0307fc;
 
 }
