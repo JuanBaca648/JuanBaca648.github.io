@@ -22,22 +22,22 @@ body {
   float:left;
   padding-right: 30px;
   font-size: 1.2em;
-  color: #E5B43B;
+  color: #C15018;
   list-style-type: none;
 }
 
 .menu li a {
-  color: #E5B43B;
+  color: #C15018;
   text-decoration: none;
   font-size: 2em;
-  color: yellow;
+  color: #C15018;
   font-family: 'Rokkitt', serif;
   }
 
 #title {
   margin-top: 5vh;
   margin-bottom: 2vh;
-  color: #E5B43B;
+  color: #C15018;
   font-family: 'Frank Ruhl Libre', serif;
 }
 
@@ -45,7 +45,7 @@ h1, p {
 margin-top:5vh;
 margin-bottom: 2vh;
   text-align: center;
-  color: #E5B43B;
+  color: #C15018;
 }
 
 p{
@@ -55,7 +55,7 @@ p{
   width:50%;
 }
 .imgdes {
-  color: #E5B43B;
+  color: #C15018;
   font-family: 'Frank Ruhl Libre', serif;
 }
 
@@ -69,7 +69,7 @@ p{
 
 footer{
 border-top: 3px yellow dashed;
-color: yellow;
+color: #C15018;
 padding: 15px;
 font-size: 1.5em;
 text-align: center;
