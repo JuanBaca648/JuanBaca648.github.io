@@ -22,12 +22,12 @@ body {
   float:left;
   padding-right: 30px;
   font-size: 1.2em;
-  color: #adfc03;
+  color: #E5B43B;
   list-style-type: none;
 }
 
 .menu li a {
-  color: #adfc03;
+  color: #E5B43B;
   text-decoration: none;
   font-size: 2em;
   color: yellow;
@@ -37,7 +37,7 @@ body {
 #title {
   margin-top: 5vh;
   margin-bottom: 2vh;
-  color: yellow;
+  color: #E5B43B;
   font-family: 'Frank Ruhl Libre', serif;
 }
 
@@ -45,7 +45,7 @@ h1, p {
 margin-top:5vh;
 margin-bottom: 2vh;
   text-align: center;
-  color: yellow;
+  color: #E5B43B;
 }
 
 p{
@@ -55,7 +55,7 @@ p{
   width:50%;
 }
 .imgdes {
-  color: yellow;
+  color: #E5B43B;
   font-family: 'Frank Ruhl Libre', serif;
 }
 
