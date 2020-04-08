@@ -89,7 +89,7 @@ text-align: center;
 
 .previous{
   float: left;
-  text align: left;
+  text-align: left;
   vertical-align: middle;
 }
 .previous a{
