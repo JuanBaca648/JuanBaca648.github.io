@@ -85,8 +85,8 @@ text-align: center;
 }
 
 .previous{
-  float: left;
-  text align: left;
+  float: Center;
+  text align: Center;
   vertical-align: middle;
 }
 .previous a{
@@ -94,8 +94,8 @@ text-align: center;
   color: #0307fc
 }
 .next{
-  float: right;
-  text-align: right;
+  float: Center;
+  text-align: Center;
   vertical-align: middle;
 }
 .next a{
