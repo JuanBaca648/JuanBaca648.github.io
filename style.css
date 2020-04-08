@@ -78,15 +78,15 @@ text-align: center;
 .navigation{
   width:100vw;
   padding: 60px 0;
-  padding-bottom: 100px;
-  padding-top: 100px;
+  padding-bottom: 30px;
+  padding-top: 30px;
   margin:0 auto;
   background-color:#FFD083;
 
 }
 
 .previous{
-  float: Center left;
+  float: Center;
   text align: Center;
   vertical-align: middle;
 }
