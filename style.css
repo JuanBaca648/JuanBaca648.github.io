@@ -74,35 +74,3 @@ padding: 15px;
 font-size: 1.5em;
 text-align: center;
 }
-
-.navigation{
-  width:100vw;
-  padding: 100px;
-  padding-bottom: 30px;
-  padding-top: 30px;
-  padding-right: 30px;
-  padding-left:30px;
-  margin:0 auto;
-  background-color:#FFD083;
-
-}
-
-.previous{
-  float: left;
-  text-align: left;
-  vertical-align: middle;
-}
-.previous a{
-  text-decoration: none;
-  color: #0307fc
-}
-.next{
-  float: right;
-  text-align: right;
-  vertical-align: middle;
-}
-.next a{
-  text-decoration: none;
-  color:#0307fc;
-
-}
